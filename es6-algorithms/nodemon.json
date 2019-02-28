@@ -1,0 +1,14 @@
+{
+  "verbose": true,
+  "ignore": [
+    "bin",
+    "node_modules/**/node_modules",
+    ".git"
+  ],
+  "colours": true,
+  "execMap": {
+     "py": "python",
+     "go": "go"
+  },
+  "exec": "node"
+}
